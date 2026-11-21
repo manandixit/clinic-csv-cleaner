@@ -1,0 +1,6 @@
+patient_id,patient_name,visit_date,department,copay_amount
+101,  jane doe ,2026-05-10,cardiology,$45.00
+102,JOHN SMITH,2026-05-10, Orthopedics ,30
+101,  jane doe ,2026-05-10,cardiology,$45.00
+103,Emily   Clark,2026-05-11,,$25.50
+104,michael brown,2026-05-12,NEUROLOGY,
